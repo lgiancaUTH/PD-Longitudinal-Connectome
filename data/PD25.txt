@@ -1,0 +1,22 @@
+# Lookup table for extracting the relevant parcellations from the PD25 segmentation
+
+0     ???     Unknown                         0   0   0   0
+
+1     L.RN    left-red-nucleus                25  100 40  255
+2     R.RN    right-red-nucleus		      25  100 40  255
+3     L.SN    left-substantia-nigra           100 25  0   255
+4     R.SN    right-substantia-nigra          100 25  0   255
+5     L.STN   left-subthalamic-nucleus        220 20  10  255
+6     R.STN   right-subthalamic-nucleus       220 20  10  255
+7     L.CN    left-caudate                    220 60  220 255
+8     R.CN    right-caudate                   220 60  220 255
+9     L.PUT   left-putamen                    140 20  140 255
+10    R.PUT   right-putamen                   140 20  140 255
+11    L.GPe   left-globus-pallidus-externa    35  75  50  255
+12    R.GPe   right-globus-pallidus-externa   35  75  50  255
+13    L.GPi   left-globus-pallidus-interna    200 35  75  255
+14    R.GPi   right-globus-pallidus-interna   200 35  75  255
+15    L.THA   left-thalamus                   20  220 60  255
+16    R.THA   right-thalamus                  20  220 60  255
+
+

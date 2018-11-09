@@ -1,0 +1,9 @@
+{
+  "DIR_CONNECTOMES": "data/connectomes/",
+  "PD25_NODES": "data/PD25.txt",
+  "SUBJ_MATCHED_INFO": "data/subj_matched.csv",
+  "SAVED_CONN_FEATURES": "data/scores-models-weights.pklz",
+  "SUBJ_FULL_INFO": "data/full_DTI_only_3_17_2017.csv",
+  "DIR_PPMI_IMGS": "/data/bigdata/PPMI/ppmi_imgs/full/PPMI/",
+  "DIR_PPMI_CLIN_INFO": "/data/gdrive/datasets/ppmi/"
+}
