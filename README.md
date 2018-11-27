@@ -20,7 +20,7 @@ cd PD-Longitudinal-Connectome
 ```
 Optionally, create a (conda) virtual environment and activate it
 ```
-conda create -n valve-env python=2.7 
+conda create -n pd-long-env python=2.7 
 
 conda activate pd-long-env
 ```
