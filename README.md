@@ -23,7 +23,7 @@ Optionally, create a (conda) virtual environment and activate it
 ```
 conda create -n pd-long-env python=2.7 
 
-conda activate pd-long-env
+source activate pd-long-env
 ```
 
 and finally, install the required dependencies
